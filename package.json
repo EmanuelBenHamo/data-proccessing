@@ -1,0 +1,15 @@
+{
+  "name": "data-proccessing",
+  "version": "1.0.0",
+  "description": "proccess data from api's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuel Ben Hamo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "csv-writer": "^1.6.0"
+  }
+}
