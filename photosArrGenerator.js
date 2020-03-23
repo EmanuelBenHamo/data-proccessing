@@ -9,7 +9,10 @@ const IMGS_PER_PAGE = 30;
 const USER_NAME = "fiversprint";
 
 const MEN_CSV_FILE = './data/menImgUrl.csv';
+const MEN_JSON_FILE = './data/menImgUrl.csv';
+
 const WOMEN_CSV_FILE = './data/womenImgUrl.csv';
+const WOMEN_JSON_FILE = './data/womenImgUrl.json';
 
 async function getAllCollections() {
     let collections = [];
@@ -52,7 +55,6 @@ async function getResArr(collectionIdsArr) {
     });
 
     let resArr = await Promise.all(prmsArr);
-    resArr = resArr.map(urlArr => JSON.stringify(urlArr));
 
     return resArr;
 }
@@ -77,11 +79,18 @@ function getPhotosUrl(imgDataArr) {
     return imgDataArr.map(imgData => imgData.urls.regular);
 }
 
-function saveToFile(file, arr) {
+function saveToCsvFile(file, arr) {
+    let resArr = arr.map(urlArr => JSON.stringify(urlArr));
     fs.writeFileSync(file, '');
-    arr.forEach(value => {
+    resArr.forEach(value => {
         fs.appendFileSync(file, `"${value.replace(/"/g, "'")}"\n`);
     });
+}
+
+function saveToJsonFile(file, arr) {
+    let jsonResArr = [];
+    arr.forEach(currArr => jsonResArr.push({ urls: currArr }));
+    fs.writeFileSync(file, JSON.stringify(jsonResArr));
 }
 
 async function run() {
@@ -91,15 +100,17 @@ async function run() {
     // filter collections by gender
     // women
     const womenCollectionsIds = filterCollectionsIdsByGender(collections, "women");
-    let resArr = await getResArr(womenCollectionsIds);
-    saveToFile(WOMEN_CSV_FILE, resArr);
-    console.log('done writing to women file', resArr);
+    let womenResArr = await getResArr(womenCollectionsIds);
+    saveToJsonFile(WOMEN_JSON_FILE, womenResArr);
+    saveToCsvFile(WOMEN_CSV_FILE, womenResArr);
+    console.log('-- done writing to women file --');
 
     // men
     const menCollectionsIds = filterCollectionsIdsByGender(collections, "men");
-    let resArr = await getResArr(menCollectionsIds);
-    saveToFile(MEN_CSV_FILE, resArr);
-    console.log('done writing to men file', resArr);
+    let menResArr = await getResArr(menCollectionsIds);
+    saveToJsonFile(MEN_JSON_FILE, menResArr);
+    saveToCsvFile(MEN_CSV_FILE, menResArr);
+    console.log('-- done writing to men file --');
 }
 
 run();
