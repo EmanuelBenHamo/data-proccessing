@@ -1,0 +1,2959 @@
+[{
+    "_id": "bcda6e12-0268-4f85-8ac2-a711eaa24ac0",
+    "firstName": "Herbie",
+    "lastName": "Brannan",
+    "gender": "Male",
+    "dateOfBirth": "406659404",
+    "email": "hbrannan0@oakley.com",
+    "tags": [
+      "Toys",
+      "Health",
+      "Garden",
+      "Games"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 177003,
+        "womenFollowers": 112528,
+        "posts": 292,
+        "stories": 4584,
+        "followersAvgAge": 28,
+        "pricePerPost": 3954
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 196521,
+        "womenFollowers": 151324,
+        "posts": 875,
+        "stories": 2380,
+        "followersAvgAge": 31,
+        "pricePerPost": 5967
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 106281,
+        "womenFollowers": 140993,
+        "posts": 4868,
+        "stories": 2523,
+        "followersAvgAge": 33,
+        "pricePerPost": 8693
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "hbrannan0",
+      "password": "tV6kuGUMA"
+    }
+  }, {
+    "_id": "af00a613-6dd9-47ba-9393-b27c7bfab0df",
+    "firstName": "Lorie",
+    "lastName": "Cometson",
+    "gender": "Female",
+    "dateOfBirth": "426148264",
+    "email": "lcometson1@archive.org",
+    "tags": [
+      "Games",
+      "Outdoors",
+      "Grocery",
+      "Books"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 88663,
+        "womenFollowers": 139200,
+        "posts": 725,
+        "stories": 2931,
+        "followersAvgAge": 29,
+        "pricePerPost": 7364
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 189652,
+        "womenFollowers": 63451,
+        "posts": 4662,
+        "stories": 3828,
+        "followersAvgAge": 36,
+        "pricePerPost": 9765
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "lcometson1",
+      "password": "AmOu29"
+    }
+  }, {
+    "_id": "bfc0c17b-a971-49cf-8f1c-89b6d5bf3786",
+    "firstName": "Camala",
+    "lastName": "Kuhnel",
+    "gender": "Female",
+    "dateOfBirth": "761579908",
+    "email": "ckuhnel2@admin.ch",
+    "tags": [
+      "Sports",
+      "Outdoors",
+      "Electronics",
+      "Sports"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 79381,
+        "womenFollowers": 199164,
+        "posts": 4074,
+        "stories": 910,
+        "followersAvgAge": 25,
+        "pricePerPost": 6751
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 147270,
+        "womenFollowers": 151879,
+        "posts": 4714,
+        "stories": 1231,
+        "followersAvgAge": 34,
+        "pricePerPost": 5498
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 123790,
+        "womenFollowers": 189770,
+        "posts": 4932,
+        "stories": 4960,
+        "followersAvgAge": 40,
+        "pricePerPost": 9574
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "ckuhnel2",
+      "password": "sd7v36zb"
+    }
+  }, {
+    "_id": "8576f75b-6048-449a-bf35-d8665a981766",
+    "firstName": "Rudolph",
+    "lastName": "Pedican",
+    "gender": "Male",
+    "dateOfBirth": "661454135",
+    "email": "rpedican3@symantec.com",
+    "tags": [
+      "Baby",
+      "Shoes",
+      "Clothing"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 195048,
+        "womenFollowers": 117524,
+        "posts": 2078,
+        "stories": 4827,
+        "followersAvgAge": 25,
+        "pricePerPost": 2191
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 196342,
+        "womenFollowers": 131126,
+        "posts": 3497,
+        "stories": 2371,
+        "followersAvgAge": 37,
+        "pricePerPost": 2698
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "rpedican3",
+      "password": "vlwlWgmSa0"
+    }
+  }, {
+    "_id": "534ea7c6-cbd9-427d-87d8-301bdabc7414",
+    "firstName": "Pedro",
+    "lastName": "Tonna",
+    "gender": "Male",
+    "dateOfBirth": "487702293",
+    "email": "ptonna4@msu.edu",
+    "tags": [
+      "Beauty",
+      "Home",
+      "Jewelery",
+      "Kids",
+      "Games"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 121083,
+        "womenFollowers": 161974,
+        "posts": 3099,
+        "stories": 3160,
+        "followersAvgAge": 30,
+        "pricePerPost": 9618
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 115681,
+        "womenFollowers": 136076,
+        "posts": 796,
+        "stories": 2964,
+        "followersAvgAge": 38,
+        "pricePerPost": 3495
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "ptonna4",
+      "password": "i9qN2NuZ"
+    }
+  }, {
+    "_id": "f079fdf6-444b-466c-8ab7-46f398fc690f",
+    "firstName": "Charita",
+    "lastName": "Zannolli",
+    "gender": "Female",
+    "dateOfBirth": "402930667",
+    "email": "czannolli5@sitemeter.com",
+    "tags": [
+      "Industrial",
+      "Movies",
+      "Beauty",
+      "Baby"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 186632,
+        "womenFollowers": 51740,
+        "posts": 2778,
+        "stories": 274,
+        "followersAvgAge": 34,
+        "pricePerPost": 1438
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 129162,
+        "womenFollowers": 113891,
+        "posts": 2739,
+        "stories": 622,
+        "followersAvgAge": 33,
+        "pricePerPost": 703
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "czannolli5",
+      "password": "ej3KMCYzIUH"
+    }
+  }, {
+    "_id": "21bdf7ae-bc69-4f50-85f1-e25e0c9091a1",
+    "firstName": "Ellwood",
+    "lastName": "Densey",
+    "gender": "Male",
+    "dateOfBirth": "593624875",
+    "email": "edensey6@friendfeed.com",
+    "tags": [
+      "Games",
+      "Outdoors",
+      "Grocery",
+      "Clothing",
+      "Beauty"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 161195,
+        "womenFollowers": 136004,
+        "posts": 3226,
+        "stories": 4798,
+        "followersAvgAge": 33,
+        "pricePerPost": 5256
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 113103,
+        "womenFollowers": 153918,
+        "posts": 2149,
+        "stories": 3371,
+        "followersAvgAge": 34,
+        "pricePerPost": 4768
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 153663,
+        "womenFollowers": 79466,
+        "posts": 1277,
+        "stories": 677,
+        "followersAvgAge": 36,
+        "pricePerPost": 2907
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "edensey6",
+      "password": "X2W1pDV"
+    }
+  }, {
+    "_id": "9f2eef17-ae90-4383-b87d-037629d1cd7c",
+    "firstName": "D'arcy",
+    "lastName": "Gingell",
+    "gender": "Male",
+    "dateOfBirth": "342241227",
+    "email": "dgingell7@disqus.com",
+    "tags": [
+      "Clothing",
+      "Music",
+      "Shoes",
+      "Grocery",
+      "Toys"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 168941,
+        "womenFollowers": 140094,
+        "posts": 2670,
+        "stories": 3188,
+        "followersAvgAge": 39,
+        "pricePerPost": 7552
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 176530,
+        "womenFollowers": 181081,
+        "posts": 4104,
+        "stories": 1644,
+        "followersAvgAge": 32,
+        "pricePerPost": 6808
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "dgingell7",
+      "password": "ul1N1yJu"
+    }
+  }, {
+    "_id": "4396d7ec-23db-401b-969a-a4d6d468f450",
+    "firstName": "Quill",
+    "lastName": "Baldelli",
+    "gender": "Male",
+    "dateOfBirth": "378003980",
+    "email": "qbaldelli8@oaic.gov.au",
+    "tags": [
+      "Games",
+      "Automotive",
+      "Clothing"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 109557,
+        "womenFollowers": 85485,
+        "posts": 2955,
+        "stories": 2809,
+        "followersAvgAge": 28,
+        "pricePerPost": 5592
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 57939,
+        "womenFollowers": 145722,
+        "posts": 179,
+        "stories": 3759,
+        "followersAvgAge": 26,
+        "pricePerPost": 7056
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 142046,
+        "womenFollowers": 108173,
+        "posts": 1321,
+        "stories": 2562,
+        "followersAvgAge": 30,
+        "pricePerPost": 9599
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "qbaldelli8",
+      "password": "vvtCO5GUa"
+    }
+  }, {
+    "_id": "9c97ca0a-e8a9-4a6a-bd78-0804fc537349",
+    "firstName": "Petronilla",
+    "lastName": "Woolgar",
+    "gender": "Female",
+    "dateOfBirth": "386181853",
+    "email": "pwoolgar9@privacy.gov.au",
+    "tags": [
+      "Toys",
+      "Outdoors",
+      "Tools"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 145029,
+        "womenFollowers": 171413,
+        "posts": 2853,
+        "stories": 3932,
+        "followersAvgAge": 32,
+        "pricePerPost": 4065
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 187246,
+        "womenFollowers": 96383,
+        "posts": 411,
+        "stories": 550,
+        "followersAvgAge": 36,
+        "pricePerPost": 8150
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 192632,
+        "womenFollowers": 77728,
+        "posts": 2091,
+        "stories": 2955,
+        "followersAvgAge": 38,
+        "pricePerPost": 2355
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "pwoolgar9",
+      "password": "8ixOvCDbC"
+    }
+  }, {
+    "_id": "eca0e2ac-e19c-47db-aaf1-729a7c766a1d",
+    "firstName": "Aurora",
+    "lastName": "Webley",
+    "gender": "Female",
+    "dateOfBirth": "730410828",
+    "email": "awebleya@newsvine.com",
+    "tags": [
+      "Music",
+      "Clothing",
+      "Toys"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 150736,
+        "womenFollowers": 141232,
+        "posts": 3199,
+        "stories": 2427,
+        "followersAvgAge": 33,
+        "pricePerPost": 8104
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 179623,
+        "womenFollowers": 167496,
+        "posts": 1761,
+        "stories": 4336,
+        "followersAvgAge": 28,
+        "pricePerPost": 3851
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "awebleya",
+      "password": "tWDc0VIj"
+    }
+  }, {
+    "_id": "a0707224-2495-4112-9d08-5fc5557b1971",
+    "firstName": "Gustavus",
+    "lastName": "Bragginton",
+    "gender": "Male",
+    "dateOfBirth": "495700550",
+    "email": "gbraggintonb@ehow.com",
+    "tags": [
+      "Sports",
+      "Sports",
+      "Industrial",
+      "Health",
+      "Movies"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 69931,
+        "womenFollowers": 77740,
+        "posts": 4360,
+        "stories": 1442,
+        "followersAvgAge": 36,
+        "pricePerPost": 8616
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 77112,
+        "womenFollowers": 176488,
+        "posts": 733,
+        "stories": 1932,
+        "followersAvgAge": 37,
+        "pricePerPost": 8377
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "gbraggintonb",
+      "password": "DBmvvz2odb32"
+    }
+  }, {
+    "_id": "d64b5605-680c-4fba-84c0-ce9e4bffdba7",
+    "firstName": "Hillard",
+    "lastName": "Shaplin",
+    "gender": "Male",
+    "dateOfBirth": "466307260",
+    "email": "hshaplinc@squarespace.com",
+    "tags": [
+      "Electronics",
+      "Automotive",
+      "Industrial",
+      "Health"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 121880,
+        "womenFollowers": 84072,
+        "posts": 2300,
+        "stories": 2298,
+        "followersAvgAge": 34,
+        "pricePerPost": 8612
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 75147,
+        "womenFollowers": 55153,
+        "posts": 1416,
+        "stories": 2534,
+        "followersAvgAge": 32,
+        "pricePerPost": 5186
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "hshaplinc",
+      "password": "fsM7vKDzfQE"
+    }
+  }, {
+    "_id": "ed18fae4-0b21-4295-a486-0c4161bd8920",
+    "firstName": "Killian",
+    "lastName": "McDirmid",
+    "gender": "Male",
+    "dateOfBirth": "473631500",
+    "email": "kmcdirmidd@shutterfly.com",
+    "tags": [
+      "Computers",
+      "Baby",
+      "Beauty"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 115791,
+        "womenFollowers": 90785,
+        "posts": 430,
+        "stories": 3221,
+        "followersAvgAge": 36,
+        "pricePerPost": 4970
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 71778,
+        "womenFollowers": 108790,
+        "posts": 3938,
+        "stories": 2383,
+        "followersAvgAge": 28,
+        "pricePerPost": 7525
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 170746,
+        "womenFollowers": 72519,
+        "posts": 1373,
+        "stories": 268,
+        "followersAvgAge": 26,
+        "pricePerPost": 8597
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "kmcdirmidd",
+      "password": "CaIu5gv7"
+    }
+  }, {
+    "_id": "acc39253-f130-4d46-8399-21f87b1e5d4a",
+    "firstName": "Alethea",
+    "lastName": "Surgey",
+    "gender": "Female",
+    "dateOfBirth": "608736615",
+    "email": "asurgeye@phpbb.com",
+    "tags": [
+      "Grocery",
+      "Jewelery",
+      "Books",
+      "Grocery"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 157436,
+        "womenFollowers": 103085,
+        "posts": 2034,
+        "stories": 4682,
+        "followersAvgAge": 37,
+        "pricePerPost": 7623
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 100600,
+        "womenFollowers": 184772,
+        "posts": 166,
+        "stories": 1010,
+        "followersAvgAge": 39,
+        "pricePerPost": 2135
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 134384,
+        "womenFollowers": 167515,
+        "posts": 2492,
+        "stories": 2293,
+        "followersAvgAge": 31,
+        "pricePerPost": 1806
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "asurgeye",
+      "password": "mVNvBBRfgirz"
+    }
+  }, {
+    "_id": "cec9db00-183d-4a26-ba01-ca1c113e2a22",
+    "firstName": "Delia",
+    "lastName": "Poad",
+    "gender": "Female",
+    "dateOfBirth": "739119274",
+    "email": "dpoadf@house.gov",
+    "tags": [
+      "Toys",
+      "Clothing",
+      "Sports"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 152568,
+        "womenFollowers": 105440,
+        "posts": 4569,
+        "stories": 2991,
+        "followersAvgAge": 35,
+        "pricePerPost": 997
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 142120,
+        "womenFollowers": 112541,
+        "posts": 2096,
+        "stories": 4392,
+        "followersAvgAge": 29,
+        "pricePerPost": 1857
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "dpoadf",
+      "password": "ClxHArHh0o"
+    }
+  }, {
+    "_id": "f3eeff23-9105-4aa0-9f74-f8566eb47fea",
+    "firstName": "Brennan",
+    "lastName": "Lamy",
+    "gender": "Male",
+    "dateOfBirth": "327262509",
+    "email": "blamyg@sun.com",
+    "tags": [
+      "Clothing",
+      "Clothing",
+      "Music"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 126074,
+        "womenFollowers": 178614,
+        "posts": 2765,
+        "stories": 326,
+        "followersAvgAge": 36,
+        "pricePerPost": 5907
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 198988,
+        "womenFollowers": 75197,
+        "posts": 4305,
+        "stories": 2048,
+        "followersAvgAge": 38,
+        "pricePerPost": 6396
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "blamyg",
+      "password": "fPu0mSz"
+    }
+  }, {
+    "_id": "95698d9e-d0f6-40c6-a54c-2dcfd9c1c277",
+    "firstName": "Marisa",
+    "lastName": "Gittens",
+    "gender": "Female",
+    "dateOfBirth": "742123566",
+    "email": "mgittensh@wix.com",
+    "tags": [
+      "Home",
+      "Tools",
+      "Health"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 198860,
+        "womenFollowers": 148369,
+        "posts": 1340,
+        "stories": 1960,
+        "followersAvgAge": 35,
+        "pricePerPost": 7826
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 161831,
+        "womenFollowers": 73491,
+        "posts": 4925,
+        "stories": 3571,
+        "followersAvgAge": 39,
+        "pricePerPost": 6103
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 182067,
+        "womenFollowers": 128385,
+        "posts": 3230,
+        "stories": 659,
+        "followersAvgAge": 39,
+        "pricePerPost": 4818
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "mgittensh",
+      "password": "yYnXYzgOfn4p"
+    }
+  }, {
+    "_id": "ff377b43-0dee-49f5-b427-ada7bbb3778e",
+    "firstName": "Elias",
+    "lastName": "Peeter",
+    "gender": "Male",
+    "dateOfBirth": "626853273",
+    "email": "epeeteri@theatlantic.com",
+    "tags": [
+      "Computers",
+      "Sports",
+      "Kids",
+      "Games",
+      "Toys"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 84317,
+        "womenFollowers": 109461,
+        "posts": 765,
+        "stories": 3941,
+        "followersAvgAge": 29,
+        "pricePerPost": 3972
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 64461,
+        "womenFollowers": 71440,
+        "posts": 3430,
+        "stories": 1948,
+        "followersAvgAge": 38,
+        "pricePerPost": 2946
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "epeeteri",
+      "password": "Tz8TQeFdbKoh"
+    }
+  }, {
+    "_id": "79dea873-26d2-4b37-ac6b-34b986ba7df8",
+    "firstName": "Xylina",
+    "lastName": "Cuff",
+    "gender": "Female",
+    "dateOfBirth": "651696963",
+    "email": "xcuffj@ezinearticles.com",
+    "tags": [
+      "Shoes",
+      "Movies",
+      "Home",
+      "Beauty",
+      "Games"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 61466,
+        "womenFollowers": 175379,
+        "posts": 871,
+        "stories": 207,
+        "followersAvgAge": 27,
+        "pricePerPost": 6865
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 199012,
+        "womenFollowers": 74750,
+        "posts": 2269,
+        "stories": 1658,
+        "followersAvgAge": 34,
+        "pricePerPost": 2512
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "xcuffj",
+      "password": "orfadhLl1DIr"
+    }
+  }, {
+    "_id": "83bb99ba-e2e5-41af-9248-0aa93d6d55a2",
+    "firstName": "Abbot",
+    "lastName": "Crippin",
+    "gender": "Male",
+    "dateOfBirth": "469410997",
+    "email": "acrippink@mashable.com",
+    "tags": [
+      "Jewelery",
+      "Tools",
+      "Toys",
+      "Shoes"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 99407,
+        "womenFollowers": 143298,
+        "posts": 2379,
+        "stories": 1225,
+        "followersAvgAge": 30,
+        "pricePerPost": 6137
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 73792,
+        "womenFollowers": 160331,
+        "posts": 2189,
+        "stories": 2697,
+        "followersAvgAge": 33,
+        "pricePerPost": 1084
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "acrippink",
+      "password": "Yw971PQn"
+    }
+  }, {
+    "_id": "811bb461-adb0-408d-b4a0-4d726542c8ee",
+    "firstName": "Aubrey",
+    "lastName": "Halloway",
+    "gender": "Male",
+    "dateOfBirth": "478262004",
+    "email": "ahallowayl@dion.ne.jp",
+    "tags": [
+      "Automotive",
+      "Jewelery",
+      "Kids",
+      "Kids"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 107900,
+        "womenFollowers": 182057,
+        "posts": 1015,
+        "stories": 3526,
+        "followersAvgAge": 39,
+        "pricePerPost": 7858
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 94340,
+        "womenFollowers": 90916,
+        "posts": 3252,
+        "stories": 4070,
+        "followersAvgAge": 37,
+        "pricePerPost": 5802
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "ahallowayl",
+      "password": "XhSXJLLO"
+    }
+  }, {
+    "_id": "15cce4db-5716-44c8-b427-be6511da9773",
+    "firstName": "Margaux",
+    "lastName": "Keenlayside",
+    "gender": "Female",
+    "dateOfBirth": "325360259",
+    "email": "mkeenlaysidem@tumblr.com",
+    "tags": [
+      "Clothing",
+      "Movies",
+      "Home",
+      "Automotive"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 199716,
+        "womenFollowers": 73722,
+        "posts": 856,
+        "stories": 3915,
+        "followersAvgAge": 27,
+        "pricePerPost": 8395
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 114896,
+        "womenFollowers": 136842,
+        "posts": 2036,
+        "stories": 1859,
+        "followersAvgAge": 39,
+        "pricePerPost": 8166
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 162752,
+        "womenFollowers": 136443,
+        "posts": 1377,
+        "stories": 1293,
+        "followersAvgAge": 40,
+        "pricePerPost": 5818
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "mkeenlaysidem",
+      "password": "66zyrTiqK"
+    }
+  }, {
+    "_id": "9fef9d0a-8e24-4228-abea-60d23efa82bd",
+    "firstName": "Sayres",
+    "lastName": "Leftwich",
+    "gender": "Male",
+    "dateOfBirth": "773549869",
+    "email": "sleftwichn@cpanel.net",
+    "tags": [
+      "Games",
+      "Jewelery",
+      "Garden"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 114611,
+        "womenFollowers": 106732,
+        "posts": 2779,
+        "stories": 2556,
+        "followersAvgAge": 37,
+        "pricePerPost": 2185
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 113309,
+        "womenFollowers": 86814,
+        "posts": 3771,
+        "stories": 3216,
+        "followersAvgAge": 28,
+        "pricePerPost": 1725
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 58134,
+        "womenFollowers": 162206,
+        "posts": 939,
+        "stories": 1851,
+        "followersAvgAge": 36,
+        "pricePerPost": 2265
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "sleftwichn",
+      "password": "FR3Cyr"
+    }
+  }, {
+    "_id": "a25a4a9a-3118-4ef3-8684-c7bd7e145ee2",
+    "firstName": "Stacie",
+    "lastName": "Bertomieu",
+    "gender": "Female",
+    "dateOfBirth": "526333827",
+    "email": "sbertomieuo@google.co.jp",
+    "tags": [
+      "Clothing",
+      "Movies",
+      "Books",
+      "Clothing",
+      "Beauty"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 141379,
+        "womenFollowers": 124316,
+        "posts": 4133,
+        "stories": 3552,
+        "followersAvgAge": 26,
+        "pricePerPost": 5393
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 68394,
+        "womenFollowers": 110136,
+        "posts": 1598,
+        "stories": 4726,
+        "followersAvgAge": 31,
+        "pricePerPost": 2472
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "sbertomieuo",
+      "password": "lKPWLXGAN"
+    }
+  }, {
+    "_id": "a034a7c7-f468-4555-a433-6426c0142050",
+    "firstName": "Horace",
+    "lastName": "Lytlle",
+    "gender": "Male",
+    "dateOfBirth": "401581630",
+    "email": "hlytllep@imgur.com",
+    "tags": [
+      "Electronics",
+      "Toys",
+      "Outdoors",
+      "Music",
+      "Shoes"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 176679,
+        "womenFollowers": 109846,
+        "posts": 986,
+        "stories": 472,
+        "followersAvgAge": 28,
+        "pricePerPost": 1897
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 176694,
+        "womenFollowers": 130116,
+        "posts": 1215,
+        "stories": 4912,
+        "followersAvgAge": 39,
+        "pricePerPost": 6094
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 50163,
+        "womenFollowers": 197939,
+        "posts": 4877,
+        "stories": 3811,
+        "followersAvgAge": 25,
+        "pricePerPost": 1858
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "hlytllep",
+      "password": "AHN3tP"
+    }
+  }, {
+    "_id": "08094585-9e4a-4408-8169-06aff7ba559e",
+    "firstName": "Natalina",
+    "lastName": "Johnston",
+    "gender": "Female",
+    "dateOfBirth": "668969684",
+    "email": "njohnstonq@t.co",
+    "tags": [
+      "Grocery",
+      "Books",
+      "Beauty",
+      "Automotive",
+      "Beauty"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 156328,
+        "womenFollowers": 92768,
+        "posts": 2998,
+        "stories": 1047,
+        "followersAvgAge": 28,
+        "pricePerPost": 3788
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 150294,
+        "womenFollowers": 151092,
+        "posts": 3952,
+        "stories": 1596,
+        "followersAvgAge": 32,
+        "pricePerPost": 5776
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 68020,
+        "womenFollowers": 123842,
+        "posts": 1952,
+        "stories": 4812,
+        "followersAvgAge": 26,
+        "pricePerPost": 7846
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "njohnstonq",
+      "password": "OlRSmHQD"
+    }
+  }, {
+    "_id": "95162e58-922f-402b-bd0b-6ebe2675574f",
+    "firstName": "Giulia",
+    "lastName": "Amori",
+    "gender": "Female",
+    "dateOfBirth": "775768044",
+    "email": "gamorir@bing.com",
+    "tags": [
+      "Toys",
+      "Sports",
+      "Outdoors",
+      "Tools"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 62218,
+        "womenFollowers": 137089,
+        "posts": 1669,
+        "stories": 2153,
+        "followersAvgAge": 33,
+        "pricePerPost": 4878
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 156943,
+        "womenFollowers": 120471,
+        "posts": 3978,
+        "stories": 4755,
+        "followersAvgAge": 30,
+        "pricePerPost": 4847
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 123236,
+        "womenFollowers": 170712,
+        "posts": 598,
+        "stories": 1217,
+        "followersAvgAge": 40,
+        "pricePerPost": 6129
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "gamorir",
+      "password": "jK5QMico"
+    }
+  }, {
+    "_id": "40f25b03-53db-4c6d-baea-7c20a6894e7d",
+    "firstName": "Delcine",
+    "lastName": "Twitching",
+    "gender": "Female",
+    "dateOfBirth": "723152060",
+    "email": "dtwitchings@telegraph.co.uk",
+    "tags": [
+      "Toys",
+      "Games",
+      "Garden",
+      "Shoes"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 63212,
+        "womenFollowers": 137637,
+        "posts": 4939,
+        "stories": 3055,
+        "followersAvgAge": 40,
+        "pricePerPost": 501
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 66956,
+        "womenFollowers": 195951,
+        "posts": 2961,
+        "stories": 986,
+        "followersAvgAge": 40,
+        "pricePerPost": 2444
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 114250,
+        "womenFollowers": 120241,
+        "posts": 236,
+        "stories": 663,
+        "followersAvgAge": 36,
+        "pricePerPost": 9407
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "dtwitchings",
+      "password": "ed5e02kzTYq"
+    }
+  }, {
+    "_id": "cecbe127-c555-4602-9a0a-1c64d0eac325",
+    "firstName": "Dore",
+    "lastName": "Gumn",
+    "gender": "Male",
+    "dateOfBirth": "721321271",
+    "email": "dgumnt@arstechnica.com",
+    "tags": [
+      "Kids",
+      "Sports",
+      "Health"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 139579,
+        "womenFollowers": 156366,
+        "posts": 3839,
+        "stories": 4261,
+        "followersAvgAge": 30,
+        "pricePerPost": 7623
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 115454,
+        "womenFollowers": 145456,
+        "posts": 2077,
+        "stories": 2682,
+        "followersAvgAge": 34,
+        "pricePerPost": 4780
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "dgumnt",
+      "password": "Pc2huQE"
+    }
+  }, {
+    "_id": "3b3476fd-f032-4504-a5b6-a2b0757de5ce",
+    "firstName": "Zitella",
+    "lastName": "Claye",
+    "gender": "Female",
+    "dateOfBirth": "689287310",
+    "email": "zclayeu@ocn.ne.jp",
+    "tags": [
+      "Grocery",
+      "Toys",
+      "Electronics"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 92762,
+        "womenFollowers": 195593,
+        "posts": 3814,
+        "stories": 119,
+        "followersAvgAge": 26,
+        "pricePerPost": 4694
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 150145,
+        "womenFollowers": 84588,
+        "posts": 1045,
+        "stories": 4946,
+        "followersAvgAge": 25,
+        "pricePerPost": 992
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 183641,
+        "womenFollowers": 71817,
+        "posts": 4337,
+        "stories": 972,
+        "followersAvgAge": 38,
+        "pricePerPost": 3641
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "zclayeu",
+      "password": "9wGESaA9IDx"
+    }
+  }, {
+    "_id": "caf76b9d-5124-4506-85da-257bf9270df1",
+    "firstName": "Jojo",
+    "lastName": "Headey",
+    "gender": "Female",
+    "dateOfBirth": "764036268",
+    "email": "jheadeyv@sbwire.com",
+    "tags": [
+      "Toys",
+      "Clothing",
+      "Garden"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 149161,
+        "womenFollowers": 53181,
+        "posts": 1701,
+        "stories": 4128,
+        "followersAvgAge": 40,
+        "pricePerPost": 3575
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 98859,
+        "womenFollowers": 111551,
+        "posts": 4354,
+        "stories": 1558,
+        "followersAvgAge": 40,
+        "pricePerPost": 874
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 147607,
+        "womenFollowers": 69208,
+        "posts": 3046,
+        "stories": 427,
+        "followersAvgAge": 33,
+        "pricePerPost": 9661
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "jheadeyv",
+      "password": "hMbzzz1Dbd8"
+    }
+  }, {
+    "_id": "fa4f3b73-98ff-4e00-ae40-e4a130c06955",
+    "firstName": "Cad",
+    "lastName": "Hickisson",
+    "gender": "Male",
+    "dateOfBirth": "499711576",
+    "email": "chickissonw@posterous.com",
+    "tags": [
+      "Shoes",
+      "Books",
+      "Grocery"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 180540,
+        "womenFollowers": 186577,
+        "posts": 586,
+        "stories": 1823,
+        "followersAvgAge": 37,
+        "pricePerPost": 4530
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 175249,
+        "womenFollowers": 96986,
+        "posts": 2823,
+        "stories": 2181,
+        "followersAvgAge": 32,
+        "pricePerPost": 6392
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 62250,
+        "womenFollowers": 73246,
+        "posts": 1682,
+        "stories": 1115,
+        "followersAvgAge": 26,
+        "pricePerPost": 3987
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "chickissonw",
+      "password": "jXvdox"
+    }
+  }, {
+    "_id": "191fa0e4-f21a-41bb-9de0-5f797716d1fb",
+    "firstName": "Simonne",
+    "lastName": "Briggs",
+    "gender": "Female",
+    "dateOfBirth": "388816028",
+    "email": "sbriggsx@un.org",
+    "tags": [
+      "Computers",
+      "Toys",
+      "Automotive",
+      "Music"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 122455,
+        "womenFollowers": 188145,
+        "posts": 564,
+        "stories": 1071,
+        "followersAvgAge": 37,
+        "pricePerPost": 719
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 97153,
+        "womenFollowers": 74517,
+        "posts": 2117,
+        "stories": 3876,
+        "followersAvgAge": 36,
+        "pricePerPost": 551
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "sbriggsx",
+      "password": "wwK9M06"
+    }
+  }, {
+    "_id": "331458fe-9cb6-463a-9c08-f6f8e82f9200",
+    "firstName": "Joanie",
+    "lastName": "Isakov",
+    "gender": "Female",
+    "dateOfBirth": "783991998",
+    "email": "jisakovy@hp.com",
+    "tags": [
+      "Grocery",
+      "Industrial",
+      "Beauty",
+      "Automotive"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 66311,
+        "womenFollowers": 164469,
+        "posts": 689,
+        "stories": 4860,
+        "followersAvgAge": 38,
+        "pricePerPost": 3658
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 88728,
+        "womenFollowers": 146538,
+        "posts": 3213,
+        "stories": 1887,
+        "followersAvgAge": 29,
+        "pricePerPost": 1796
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 118923,
+        "womenFollowers": 103838,
+        "posts": 4212,
+        "stories": 3918,
+        "followersAvgAge": 29,
+        "pricePerPost": 3141
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "jisakovy",
+      "password": "i65I41b73oCu"
+    }
+  }, {
+    "_id": "823c4ba6-2f63-4261-a20b-d7dbbb9c1818",
+    "firstName": "Corenda",
+    "lastName": "Guymer",
+    "gender": "Female",
+    "dateOfBirth": "767935376",
+    "email": "cguymerz@loc.gov",
+    "tags": [
+      "Beauty",
+      "Toys",
+      "Kids",
+      "Industrial"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 141328,
+        "womenFollowers": 76592,
+        "posts": 3433,
+        "stories": 4576,
+        "followersAvgAge": 30,
+        "pricePerPost": 5698
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 169355,
+        "womenFollowers": 62119,
+        "posts": 2508,
+        "stories": 4791,
+        "followersAvgAge": 28,
+        "pricePerPost": 2826
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "cguymerz",
+      "password": "sIio8WFnK"
+    }
+  }, {
+    "_id": "198ee9b3-bcf8-4b53-bb32-f40db5daef6f",
+    "firstName": "Giles",
+    "lastName": "Buttery",
+    "gender": "Male",
+    "dateOfBirth": "726680993",
+    "email": "gbuttery10@google.ru",
+    "tags": [
+      "Music",
+      "Industrial",
+      "Music",
+      "Home",
+      "Clothing"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 114993,
+        "womenFollowers": 52655,
+        "posts": 1545,
+        "stories": 1153,
+        "followersAvgAge": 38,
+        "pricePerPost": 9661
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 152557,
+        "womenFollowers": 59561,
+        "posts": 4504,
+        "stories": 142,
+        "followersAvgAge": 35,
+        "pricePerPost": 5878
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 107019,
+        "womenFollowers": 191033,
+        "posts": 1390,
+        "stories": 839,
+        "followersAvgAge": 28,
+        "pricePerPost": 7688
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "gbuttery10",
+      "password": "StfazkM6Jqpq"
+    }
+  }, {
+    "_id": "ccbb803d-2272-4341-be5b-9778c6293ebd",
+    "firstName": "Rori",
+    "lastName": "Challace",
+    "gender": "Female",
+    "dateOfBirth": "659825136",
+    "email": "rchallace11@independent.co.uk",
+    "tags": [
+      "Shoes",
+      "Beauty",
+      "Baby"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 172188,
+        "womenFollowers": 188968,
+        "posts": 2292,
+        "stories": 1159,
+        "followersAvgAge": 25,
+        "pricePerPost": 3851
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 150758,
+        "womenFollowers": 194376,
+        "posts": 2686,
+        "stories": 1921,
+        "followersAvgAge": 31,
+        "pricePerPost": 9625
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 111010,
+        "womenFollowers": 75793,
+        "posts": 2838,
+        "stories": 4279,
+        "followersAvgAge": 26,
+        "pricePerPost": 831
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "rchallace11",
+      "password": "9o5z3l"
+    }
+  }, {
+    "_id": "22359610-2f89-4be8-8896-d6fff70c342b",
+    "firstName": "Krishna",
+    "lastName": "Gaynsford",
+    "gender": "Male",
+    "dateOfBirth": "350847728",
+    "email": "kgaynsford12@nydailynews.com",
+    "tags": [
+      "Baby",
+      "Tools",
+      "Sports",
+      "Computers",
+      "Baby"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 157144,
+        "womenFollowers": 77379,
+        "posts": 3471,
+        "stories": 4834,
+        "followersAvgAge": 31,
+        "pricePerPost": 7239
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 127797,
+        "womenFollowers": 132448,
+        "posts": 672,
+        "stories": 1668,
+        "followersAvgAge": 40,
+        "pricePerPost": 3778
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 103881,
+        "womenFollowers": 66022,
+        "posts": 996,
+        "stories": 1968,
+        "followersAvgAge": 30,
+        "pricePerPost": 5905
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "kgaynsford12",
+      "password": "9FHq0xEW"
+    }
+  }, {
+    "_id": "8c82696e-0d6e-4575-9e3b-3d79d7f12786",
+    "firstName": "Agosto",
+    "lastName": "Swatheridge",
+    "gender": "Male",
+    "dateOfBirth": "610225461",
+    "email": "aswatheridge13@thetimes.co.uk",
+    "tags": [
+      "Movies",
+      "Garden",
+      "Home",
+      "Movies",
+      "Health"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 193296,
+        "womenFollowers": 100170,
+        "posts": 1096,
+        "stories": 2133,
+        "followersAvgAge": 39,
+        "pricePerPost": 6901
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 186251,
+        "womenFollowers": 109767,
+        "posts": 1783,
+        "stories": 297,
+        "followersAvgAge": 37,
+        "pricePerPost": 618
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "aswatheridge13",
+      "password": "a57nwP2gH"
+    }
+  }, {
+    "_id": "0e0015ae-81b9-40b7-bcd8-7c528a78e369",
+    "firstName": "Gail",
+    "lastName": "Aggett",
+    "gender": "Male",
+    "dateOfBirth": "783985190",
+    "email": "gaggett14@prnewswire.com",
+    "tags": [
+      "Sports",
+      "Movies",
+      "Jewelery",
+      "Kids",
+      "Movies"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 65863,
+        "womenFollowers": 144504,
+        "posts": 1487,
+        "stories": 1269,
+        "followersAvgAge": 29,
+        "pricePerPost": 3055
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 81051,
+        "womenFollowers": 87480,
+        "posts": 1996,
+        "stories": 1129,
+        "followersAvgAge": 26,
+        "pricePerPost": 4672
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 101711,
+        "womenFollowers": 188297,
+        "posts": 1829,
+        "stories": 1883,
+        "followersAvgAge": 30,
+        "pricePerPost": 862
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "gaggett14",
+      "password": "o6h7jow3TDwp"
+    }
+  }, {
+    "_id": "d8ff996e-c224-48cd-bf7c-61814850594f",
+    "firstName": "Hildagarde",
+    "lastName": "Passe",
+    "gender": "Female",
+    "dateOfBirth": "512087870",
+    "email": "hpasse15@fda.gov",
+    "tags": [
+      "Computers",
+      "Outdoors",
+      "Electronics",
+      "Industrial"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 127345,
+        "womenFollowers": 193625,
+        "posts": 910,
+        "stories": 168,
+        "followersAvgAge": 40,
+        "pricePerPost": 6165
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 106883,
+        "womenFollowers": 124977,
+        "posts": 684,
+        "stories": 554,
+        "followersAvgAge": 32,
+        "pricePerPost": 2024
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 136440,
+        "womenFollowers": 176959,
+        "posts": 3309,
+        "stories": 1825,
+        "followersAvgAge": 33,
+        "pricePerPost": 662
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "hpasse15",
+      "password": "9AZWKLbFre"
+    }
+  }, {
+    "_id": "543e709b-baee-4283-9005-53ad88e46c0f",
+    "firstName": "Marcelo",
+    "lastName": "Stanfield",
+    "gender": "Male",
+    "dateOfBirth": "637020732",
+    "email": "mstanfield16@yale.edu",
+    "tags": [
+      "Sports",
+      "Books",
+      "Grocery",
+      "Sports",
+      "Games"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 142149,
+        "womenFollowers": 148710,
+        "posts": 744,
+        "stories": 2712,
+        "followersAvgAge": 36,
+        "pricePerPost": 9724
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 177712,
+        "womenFollowers": 194094,
+        "posts": 4417,
+        "stories": 1744,
+        "followersAvgAge": 37,
+        "pricePerPost": 9161
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "mstanfield16",
+      "password": "NQTvTIGBuG8j"
+    }
+  }, {
+    "_id": "6a6aadb4-1602-4f83-9e2b-88fdbe87e772",
+    "firstName": "Kendell",
+    "lastName": "Desborough",
+    "gender": "Male",
+    "dateOfBirth": "758343585",
+    "email": "kdesborough17@utexas.edu",
+    "tags": [
+      "Grocery",
+      "Electronics",
+      "Automotive",
+      "Beauty",
+      "Home"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 105729,
+        "womenFollowers": 103778,
+        "posts": 822,
+        "stories": 1717,
+        "followersAvgAge": 30,
+        "pricePerPost": 1510
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 81517,
+        "womenFollowers": 89183,
+        "posts": 1931,
+        "stories": 484,
+        "followersAvgAge": 32,
+        "pricePerPost": 5142
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 74051,
+        "womenFollowers": 154763,
+        "posts": 3197,
+        "stories": 1835,
+        "followersAvgAge": 33,
+        "pricePerPost": 1340
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "kdesborough17",
+      "password": "s6d32Y7"
+    }
+  }, {
+    "_id": "9ecae2fa-18fc-48bd-a9e4-9b116c1981f8",
+    "firstName": "Skipton",
+    "lastName": "Skett",
+    "gender": "Male",
+    "dateOfBirth": "635730831",
+    "email": "sskett18@chicagotribune.com",
+    "tags": [
+      "Music",
+      "Grocery",
+      "Clothing",
+      "Grocery",
+      "Health"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 128777,
+        "womenFollowers": 126522,
+        "posts": 449,
+        "stories": 4128,
+        "followersAvgAge": 40,
+        "pricePerPost": 1320
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 185516,
+        "womenFollowers": 88528,
+        "posts": 1344,
+        "stories": 1404,
+        "followersAvgAge": 27,
+        "pricePerPost": 6450
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "sskett18",
+      "password": "PBtf7j1BF9"
+    }
+  }, {
+    "_id": "c4262fe4-dbc6-4d56-9cc4-ec1c88773e0f",
+    "firstName": "Janetta",
+    "lastName": "Izzett",
+    "gender": "Female",
+    "dateOfBirth": "337235296",
+    "email": "jizzett19@rambler.ru",
+    "tags": [
+      "Music",
+      "Books",
+      "Garden",
+      "Kids",
+      "Movies"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 153264,
+        "womenFollowers": 144855,
+        "posts": 2426,
+        "stories": 2770,
+        "followersAvgAge": 29,
+        "pricePerPost": 3356
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 81116,
+        "womenFollowers": 176056,
+        "posts": 286,
+        "stories": 518,
+        "followersAvgAge": 39,
+        "pricePerPost": 2753
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "jizzett19",
+      "password": "3thnoasHKu"
+    }
+  }, {
+    "_id": "f19480cf-e604-4b35-aedd-829296faa80a",
+    "firstName": "Dagmar",
+    "lastName": "Koba",
+    "gender": "Female",
+    "dateOfBirth": "602712339",
+    "email": "dkoba1a@sfgate.com",
+    "tags": [
+      "Outdoors",
+      "Home",
+      "Books",
+      "Health"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 122631,
+        "womenFollowers": 55064,
+        "posts": 3728,
+        "stories": 3603,
+        "followersAvgAge": 29,
+        "pricePerPost": 2284
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 83367,
+        "womenFollowers": 173054,
+        "posts": 2448,
+        "stories": 4830,
+        "followersAvgAge": 36,
+        "pricePerPost": 9911
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 77607,
+        "womenFollowers": 156345,
+        "posts": 4350,
+        "stories": 980,
+        "followersAvgAge": 35,
+        "pricePerPost": 3180
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "dkoba1a",
+      "password": "oNke44EXxof2"
+    }
+  }, {
+    "_id": "860435ce-70a9-4b3d-8f31-4ab014140062",
+    "firstName": "Krystalle",
+    "lastName": "Lamanby",
+    "gender": "Female",
+    "dateOfBirth": "336874782",
+    "email": "klamanby1b@psu.edu",
+    "tags": [
+      "Garden",
+      "Games",
+      "Jewelery",
+      "Toys"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 70256,
+        "womenFollowers": 131481,
+        "posts": 4218,
+        "stories": 4468,
+        "followersAvgAge": 39,
+        "pricePerPost": 8648
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 110387,
+        "womenFollowers": 155900,
+        "posts": 3610,
+        "stories": 3749,
+        "followersAvgAge": 31,
+        "pricePerPost": 4367
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "klamanby1b",
+      "password": "o2oMx3EFVnz"
+    }
+  }, {
+    "_id": "589a63ac-5970-4536-8c2c-d9340a02472a",
+    "firstName": "Danya",
+    "lastName": "Dartnall",
+    "gender": "Male",
+    "dateOfBirth": "384400310",
+    "email": "ddartnall1c@istockphoto.com",
+    "tags": [
+      "Sports",
+      "Grocery",
+      "Kids",
+      "Beauty"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 95921,
+        "womenFollowers": 194324,
+        "posts": 4498,
+        "stories": 2962,
+        "followersAvgAge": 37,
+        "pricePerPost": 783
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 126673,
+        "womenFollowers": 52975,
+        "posts": 3958,
+        "stories": 1689,
+        "followersAvgAge": 31,
+        "pricePerPost": 9541
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "ddartnall1c",
+      "password": "fhJCnnTcYVGa"
+    }
+  }, {
+    "_id": "a803895d-2bb9-49fa-81c9-71e4c3446cef",
+    "firstName": "Georgy",
+    "lastName": "Oxenbury",
+    "gender": "Male",
+    "dateOfBirth": "397063559",
+    "email": "goxenbury1d@google.es",
+    "tags": [
+      "Home",
+      "Toys",
+      "Beauty"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 191373,
+        "womenFollowers": 53438,
+        "posts": 1098,
+        "stories": 1690,
+        "followersAvgAge": 33,
+        "pricePerPost": 1860
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 164941,
+        "womenFollowers": 62438,
+        "posts": 1831,
+        "stories": 4052,
+        "followersAvgAge": 38,
+        "pricePerPost": 8279
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 178211,
+        "womenFollowers": 124796,
+        "posts": 3033,
+        "stories": 4841,
+        "followersAvgAge": 32,
+        "pricePerPost": 1787
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "goxenbury1d",
+      "password": "aBiwovrua7"
+    }
+  }, {
+    "_id": "63e15821-5c4a-4871-8e08-84d39205dd1f",
+    "firstName": "Stacey",
+    "lastName": "Gwalter",
+    "gender": "Female",
+    "dateOfBirth": "515521992",
+    "email": "sgwalter1e@accuweather.com",
+    "tags": [
+      "Automotive",
+      "Beauty",
+      "Music",
+      "Tools",
+      "Sports"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 137895,
+        "womenFollowers": 95370,
+        "posts": 4994,
+        "stories": 1647,
+        "followersAvgAge": 26,
+        "pricePerPost": 765
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 189201,
+        "womenFollowers": 54019,
+        "posts": 1696,
+        "stories": 894,
+        "followersAvgAge": 28,
+        "pricePerPost": 2937
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "sgwalter1e",
+      "password": "RHyLe6ic"
+    }
+  }, {
+    "_id": "3dd12875-cb02-43cf-a5bc-d2e3ec96fc16",
+    "firstName": "Beck",
+    "lastName": "Spark",
+    "gender": "Male",
+    "dateOfBirth": "477170369",
+    "email": "bspark1f@sphinn.com",
+    "tags": [
+      "Movies",
+      "Music",
+      "Shoes",
+      "Outdoors",
+      "Toys"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 91010,
+        "womenFollowers": 126715,
+        "posts": 3524,
+        "stories": 3562,
+        "followersAvgAge": 35,
+        "pricePerPost": 1627
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 140919,
+        "womenFollowers": 85356,
+        "posts": 4216,
+        "stories": 4989,
+        "followersAvgAge": 36,
+        "pricePerPost": 1729
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "bspark1f",
+      "password": "o4W9PjlI"
+    }
+  }, {
+    "_id": "7223863c-4088-4783-bad3-a76d5447bb56",
+    "firstName": "Iolande",
+    "lastName": "Po",
+    "gender": "Female",
+    "dateOfBirth": "366863279",
+    "email": "ipo1g@kickstarter.com",
+    "tags": [
+      "Outdoors",
+      "Outdoors",
+      "Kids"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 91359,
+        "womenFollowers": 158749,
+        "posts": 4846,
+        "stories": 4386,
+        "followersAvgAge": 27,
+        "pricePerPost": 9507
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 172748,
+        "womenFollowers": 152126,
+        "posts": 678,
+        "stories": 3459,
+        "followersAvgAge": 34,
+        "pricePerPost": 7482
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "ipo1g",
+      "password": "BChfpCVY38"
+    }
+  }, {
+    "_id": "a7a78ab0-52e2-467d-bdd6-dd9da02175ec",
+    "firstName": "Tani",
+    "lastName": "Burdekin",
+    "gender": "Female",
+    "dateOfBirth": "706106668",
+    "email": "tburdekin1h@icq.com",
+    "tags": [
+      "Books",
+      "Tools",
+      "Kids",
+      "Automotive",
+      "Computers"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 68146,
+        "womenFollowers": 176964,
+        "posts": 4036,
+        "stories": 2621,
+        "followersAvgAge": 25,
+        "pricePerPost": 3105
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 86935,
+        "womenFollowers": 72880,
+        "posts": 907,
+        "stories": 1828,
+        "followersAvgAge": 37,
+        "pricePerPost": 5456
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "tburdekin1h",
+      "password": "UiQd5s"
+    }
+  }, {
+    "_id": "3cdeaebf-ceee-4075-b4e1-4fb32eb594e1",
+    "firstName": "Zonnya",
+    "lastName": "Bassindale",
+    "gender": "Female",
+    "dateOfBirth": "742561715",
+    "email": "zbassindale1i@zimbio.com",
+    "tags": [
+      "Sports",
+      "Toys",
+      "Computers",
+      "Movies",
+      "Clothing"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 82614,
+        "womenFollowers": 103742,
+        "posts": 4107,
+        "stories": 2419,
+        "followersAvgAge": 26,
+        "pricePerPost": 6975
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 63034,
+        "womenFollowers": 148341,
+        "posts": 2238,
+        "stories": 4399,
+        "followersAvgAge": 40,
+        "pricePerPost": 5154
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 135008,
+        "womenFollowers": 85492,
+        "posts": 1437,
+        "stories": 4025,
+        "followersAvgAge": 33,
+        "pricePerPost": 3194
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "zbassindale1i",
+      "password": "QAL5pBNzy"
+    }
+  }, {
+    "_id": "a70e9a71-eb11-4f51-b5e4-183876956459",
+    "firstName": "Roderick",
+    "lastName": "Dehm",
+    "gender": "Male",
+    "dateOfBirth": "577340124",
+    "email": "rdehm1j@buzzfeed.com",
+    "tags": [
+      "Computers",
+      "Grocery",
+      "Sports",
+      "Baby"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 105088,
+        "womenFollowers": 59684,
+        "posts": 1610,
+        "stories": 1413,
+        "followersAvgAge": 26,
+        "pricePerPost": 2500
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 167786,
+        "womenFollowers": 166383,
+        "posts": 2335,
+        "stories": 3042,
+        "followersAvgAge": 29,
+        "pricePerPost": 6952
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "rdehm1j",
+      "password": "XOgidz"
+    }
+  }, {
+    "_id": "b4b506ca-2376-4241-b0a7-6e0f1c1f8299",
+    "firstName": "Viv",
+    "lastName": "Dallimore",
+    "gender": "Female",
+    "dateOfBirth": "573803207",
+    "email": "vdallimore1k@comcast.net",
+    "tags": [
+      "Games",
+      "Grocery",
+      "Outdoors"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 68794,
+        "womenFollowers": 192247,
+        "posts": 4873,
+        "stories": 4578,
+        "followersAvgAge": 31,
+        "pricePerPost": 9653
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 138410,
+        "womenFollowers": 91677,
+        "posts": 3070,
+        "stories": 1074,
+        "followersAvgAge": 34,
+        "pricePerPost": 7994
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "vdallimore1k",
+      "password": "RqW4PnJ"
+    }
+  }, {
+    "_id": "20ad8fcf-3929-40d2-bf88-e05da430115e",
+    "firstName": "Sibyl",
+    "lastName": "Yakebovich",
+    "gender": "Female",
+    "dateOfBirth": "488159485",
+    "email": "syakebovich1l@constantcontact.com",
+    "tags": [
+      "Baby",
+      "Shoes",
+      "Outdoors",
+      "Sports"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 123831,
+        "womenFollowers": 188034,
+        "posts": 4442,
+        "stories": 415,
+        "followersAvgAge": 30,
+        "pricePerPost": 803
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 176292,
+        "womenFollowers": 141705,
+        "posts": 4809,
+        "stories": 835,
+        "followersAvgAge": 37,
+        "pricePerPost": 7637
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "syakebovich1l",
+      "password": "XgHuyBg3"
+    }
+  }, {
+    "_id": "91ee247a-cabd-4783-8060-97634c9f2dda",
+    "firstName": "Trev",
+    "lastName": "Godball",
+    "gender": "Male",
+    "dateOfBirth": "670649487",
+    "email": "tgodball1m@sina.com.cn",
+    "tags": [
+      "Beauty",
+      "Toys",
+      "Home"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 105225,
+        "womenFollowers": 147262,
+        "posts": 1668,
+        "stories": 2129,
+        "followersAvgAge": 25,
+        "pricePerPost": 4850
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 135751,
+        "womenFollowers": 164254,
+        "posts": 2777,
+        "stories": 497,
+        "followersAvgAge": 28,
+        "pricePerPost": 8013
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 120009,
+        "womenFollowers": 109195,
+        "posts": 2611,
+        "stories": 3326,
+        "followersAvgAge": 37,
+        "pricePerPost": 6053
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "tgodball1m",
+      "password": "kVJYxW4mLa8B"
+    }
+  }, {
+    "_id": "344e0d41-783e-4294-8b8c-c36b41b63311",
+    "firstName": "Glendon",
+    "lastName": "Frodsham",
+    "gender": "Male",
+    "dateOfBirth": "444733664",
+    "email": "gfrodsham1n@ifeng.com",
+    "tags": [
+      "Electronics",
+      "Kids",
+      "Garden",
+      "Industrial",
+      "Electronics"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 173603,
+        "womenFollowers": 128680,
+        "posts": 1286,
+        "stories": 108,
+        "followersAvgAge": 27,
+        "pricePerPost": 9097
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 79318,
+        "womenFollowers": 144928,
+        "posts": 1007,
+        "stories": 234,
+        "followersAvgAge": 34,
+        "pricePerPost": 9748
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 84190,
+        "womenFollowers": 192897,
+        "posts": 3954,
+        "stories": 3111,
+        "followersAvgAge": 34,
+        "pricePerPost": 4791
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "gfrodsham1n",
+      "password": "iBwhmuaKPs3O"
+    }
+  }, {
+    "_id": "c5d51540-9a8a-4e57-800b-6e7e29125520",
+    "firstName": "Paulita",
+    "lastName": "Draysay",
+    "gender": "Female",
+    "dateOfBirth": "692261884",
+    "email": "pdraysay1o@topsy.com",
+    "tags": [
+      "Music",
+      "Outdoors",
+      "Computers",
+      "Shoes"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 101490,
+        "womenFollowers": 143003,
+        "posts": 2173,
+        "stories": 2821,
+        "followersAvgAge": 27,
+        "pricePerPost": 5045
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 121710,
+        "womenFollowers": 118803,
+        "posts": 3249,
+        "stories": 496,
+        "followersAvgAge": 36,
+        "pricePerPost": 4829
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 189347,
+        "womenFollowers": 71970,
+        "posts": 2101,
+        "stories": 4557,
+        "followersAvgAge": 38,
+        "pricePerPost": 4732
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "pdraysay1o",
+      "password": "3AhB68sQMRd"
+    }
+  }, {
+    "_id": "798a080c-442f-40c8-a84d-134329ea52e0",
+    "firstName": "Osborne",
+    "lastName": "Neville",
+    "gender": "Male",
+    "dateOfBirth": "684910627",
+    "email": "oneville1p@chronoengine.com",
+    "tags": [
+      "Grocery",
+      "Shoes",
+      "Beauty"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 179905,
+        "womenFollowers": 126073,
+        "posts": 1983,
+        "stories": 617,
+        "followersAvgAge": 30,
+        "pricePerPost": 9912
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 195445,
+        "womenFollowers": 164873,
+        "posts": 4401,
+        "stories": 1660,
+        "followersAvgAge": 40,
+        "pricePerPost": 4245
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "oneville1p",
+      "password": "fqFxpMYVY"
+    }
+  }, {
+    "_id": "25b840cf-1b6c-4e4e-b916-291c2a1141e6",
+    "firstName": "Florry",
+    "lastName": "Moules",
+    "gender": "Female",
+    "dateOfBirth": "436534639",
+    "email": "fmoules1q@stanford.edu",
+    "tags": [
+      "Industrial",
+      "Beauty",
+      "Sports",
+      "Garden"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 124733,
+        "womenFollowers": 112425,
+        "posts": 770,
+        "stories": 4564,
+        "followersAvgAge": 35,
+        "pricePerPost": 7621
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 179811,
+        "womenFollowers": 82132,
+        "posts": 3105,
+        "stories": 4075,
+        "followersAvgAge": 39,
+        "pricePerPost": 6183
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 125902,
+        "womenFollowers": 108583,
+        "posts": 3151,
+        "stories": 213,
+        "followersAvgAge": 38,
+        "pricePerPost": 4692
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "fmoules1q",
+      "password": "PvfsIbaXrI"
+    }
+  }, {
+    "_id": "8f8326db-f364-44d1-9e86-cd5e76a4b397",
+    "firstName": "Marthena",
+    "lastName": "Tylor",
+    "gender": "Female",
+    "dateOfBirth": "504838619",
+    "email": "mtylor1r@ucoz.ru",
+    "tags": [
+      "Health",
+      "Electronics",
+      "Garden",
+      "Garden",
+      "Sports"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 154318,
+        "womenFollowers": 173581,
+        "posts": 2017,
+        "stories": 2722,
+        "followersAvgAge": 28,
+        "pricePerPost": 3222
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 191272,
+        "womenFollowers": 167107,
+        "posts": 650,
+        "stories": 2819,
+        "followersAvgAge": 29,
+        "pricePerPost": 2221
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "mtylor1r",
+      "password": "yLep1RzvLb"
+    }
+  }, {
+    "_id": "13537312-0e3c-48a7-b9f0-eff271757f41",
+    "firstName": "Farris",
+    "lastName": "Klaggeman",
+    "gender": "Male",
+    "dateOfBirth": "389294731",
+    "email": "fklaggeman1s@boston.com",
+    "tags": [
+      "Computers",
+      "Home",
+      "Sports"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 143032,
+        "womenFollowers": 193501,
+        "posts": 1001,
+        "stories": 3246,
+        "followersAvgAge": 29,
+        "pricePerPost": 4026
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 119503,
+        "womenFollowers": 107305,
+        "posts": 3301,
+        "stories": 3614,
+        "followersAvgAge": 35,
+        "pricePerPost": 2285
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "fklaggeman1s",
+      "password": "1FFZ6TQitm"
+    }
+  }, {
+    "_id": "8eca6fe0-5e12-4873-a42f-4c32b0f1c02c",
+    "firstName": "Graig",
+    "lastName": "Konmann",
+    "gender": "Male",
+    "dateOfBirth": "344266188",
+    "email": "gkonmann1t@reference.com",
+    "tags": [
+      "Jewelery",
+      "Music",
+      "Industrial",
+      "Beauty"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 89908,
+        "womenFollowers": 172283,
+        "posts": 4195,
+        "stories": 2222,
+        "followersAvgAge": 29,
+        "pricePerPost": 8886
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 104705,
+        "womenFollowers": 156800,
+        "posts": 1415,
+        "stories": 3926,
+        "followersAvgAge": 37,
+        "pricePerPost": 2571
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "gkonmann1t",
+      "password": "fvte6Bo0M"
+    }
+  }, {
+    "_id": "03eb5b18-1392-4c72-85c8-2027bd167349",
+    "firstName": "Worth",
+    "lastName": "Seville",
+    "gender": "Male",
+    "dateOfBirth": "633237646",
+    "email": "wseville1u@usatoday.com",
+    "tags": [
+      "Shoes",
+      "Kids",
+      "Sports"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 156963,
+        "womenFollowers": 78541,
+        "posts": 1169,
+        "stories": 339,
+        "followersAvgAge": 26,
+        "pricePerPost": 9195
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 135137,
+        "womenFollowers": 151272,
+        "posts": 2315,
+        "stories": 443,
+        "followersAvgAge": 30,
+        "pricePerPost": 5460
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 108884,
+        "womenFollowers": 82896,
+        "posts": 4539,
+        "stories": 3321,
+        "followersAvgAge": 38,
+        "pricePerPost": 7997
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "wseville1u",
+      "password": "sdvQgodX"
+    }
+  }, {
+    "_id": "3a765556-1089-4e58-af2c-48158456e8fa",
+    "firstName": "Alphonso",
+    "lastName": "Carrodus",
+    "gender": "Male",
+    "dateOfBirth": "470050497",
+    "email": "acarrodus1v@bbc.co.uk",
+    "tags": [
+      "Games",
+      "Home",
+      "Grocery",
+      "Clothing"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 176631,
+        "womenFollowers": 135825,
+        "posts": 1619,
+        "stories": 504,
+        "followersAvgAge": 29,
+        "pricePerPost": 6594
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 64901,
+        "womenFollowers": 186028,
+        "posts": 2264,
+        "stories": 4412,
+        "followersAvgAge": 32,
+        "pricePerPost": 2418
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "acarrodus1v",
+      "password": "BRQYhiHg"
+    }
+  }, {
+    "_id": "23272219-c665-49ec-baa1-9ec62fa5874c",
+    "firstName": "Odetta",
+    "lastName": "Giacoboni",
+    "gender": "Female",
+    "dateOfBirth": "493561241",
+    "email": "ogiacoboni1w@i2i.jp",
+    "tags": [
+      "Books",
+      "Automotive",
+      "Clothing"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 113901,
+        "womenFollowers": 144418,
+        "posts": 3443,
+        "stories": 666,
+        "followersAvgAge": 33,
+        "pricePerPost": 8346
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 65721,
+        "womenFollowers": 199969,
+        "posts": 3004,
+        "stories": 643,
+        "followersAvgAge": 33,
+        "pricePerPost": 2356
+      },
+      {
+        "type": "tiktok",
+        "menFollowers": 178458,
+        "womenFollowers": 195685,
+        "posts": 3448,
+        "stories": 4255,
+        "followersAvgAge": 36,
+        "pricePerPost": 6330
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "ogiacoboni1w",
+      "password": "PlQPHR1G"
+    }
+  }, {
+    "_id": "c6c75398-1318-4fa7-97aa-b8984bf394b4",
+    "firstName": "Nilson",
+    "lastName": "Creasy",
+    "gender": "Male",
+    "dateOfBirth": "537711921",
+    "email": "ncreasy1x@domainmarket.com",
+    "tags": [
+      "Garden",
+      "Tools",
+      "Music",
+      "Tools"
+    ],
+    "socials": [
+      {
+        "type": "instagram",
+        "menFollowers": 148671,
+        "womenFollowers": 155793,
+        "posts": 2150,
+        "stories": 3169,
+        "followersAvgAge": 31,
+        "pricePerPost": 3240
+      },
+      {
+        "type": "snapchat",
+        "menFollowers": 117425,
+        "womenFollowers": 83801,
+        "posts": 1857,
+        "stories": 2185,
+        "followersAvgAge": 32,
+        "pricePerPost": 5551
+      }
+    ],
+    "credentials": {
+      "userType": "influencer",
+      "username": "ncreasy1x",
+      "password": "zi65CEK8GMnH"
+    }
+  }]

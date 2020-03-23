@@ -4,7 +4,8 @@
   "description": "proccess data from api's",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gen": "node photosArrGenerator.js & node influencersGenerator.js"
   },
   "author": "Emanuel Ben Hamo",
   "license": "ISC",
