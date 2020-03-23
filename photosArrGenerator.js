@@ -9,7 +9,7 @@ const IMGS_PER_PAGE = 30;
 const USER_NAME = "fiversprint";
 
 const MEN_CSV_FILE = './data/menImgUrl.csv';
-const MEN_JSON_FILE = './data/menImgUrl.csv';
+const MEN_JSON_FILE = './data/menImgUrl.json';
 
 const WOMEN_CSV_FILE = './data/womenImgUrl.csv';
 const WOMEN_JSON_FILE = './data/womenImgUrl.json';
@@ -17,8 +17,8 @@ const WOMEN_JSON_FILE = './data/womenImgUrl.json';
 async function getAllCollections() {
     let collections = [];
 
-    for (var i = 1; i <= 3; i++) {
-        let result = await axios.get(`${BASE_URL}/users/${USER_NAME}/collections/?client_id=${ACCESS_KEY}&&page=${i}`);
+    for (var i = 1; i <= 2; i++) {
+        let result = await axios.get(`${BASE_URL}/users/${USER_NAME}/collections/?client_id=${ACCESS_KEY}&&per_page=30&&page=${i}`);
         collections.push(...result.data);
     }
 

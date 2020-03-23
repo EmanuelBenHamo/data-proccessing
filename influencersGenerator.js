@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-// const menPhotos = require('./data/menImgUrl.json');
+const menPhotos = require('./data/menImgUrl.json');
 const womenPhotos = require('./data/womenImgUrl.json');
 const influencers = require('./data/influencers.json');
 
@@ -9,15 +9,15 @@ const FILE_TO_SAVE = './data/influencersWithPhotos.json';
 function getInfluencersWithPhotos(influencers) {
     let influencersWithPhotos = [];
     const womenInfluencers = influencers.filter(influencer => influencer.gender === "Female");
-    // const menInfluencers = influencers.filter(influencer => influencer.gender === "Male");
+    const menInfluencers = influencers.filter(influencer => influencer.gender === "Male");
 
     const womenInfluencersWithPhotos = getInfluencersWithPhotosByGender(womenInfluencers, womenPhotos);
-    // const menInfluencersWithPhotos = getInfluencersWithPhotosByGender(menInfluencers, menPhotos);
+    const menInfluencersWithPhotos = getInfluencersWithPhotosByGender(menInfluencers, menPhotos);
 
     influencersWithPhotos.push(...womenInfluencersWithPhotos);
     console.log(`-- created ${womenInfluencersWithPhotos.length} women influencers with photos`);
-    // influencersWithPhotos.push(...menInfluencersWithPhotos);
-    // console.log(`-- created ${menInfluencersWithPhotos.length} men influencers with photos`);
+    influencersWithPhotos.push(...menInfluencersWithPhotos);
+    console.log(`-- created ${menInfluencersWithPhotos.length} men influencers with photos`);
 
     return influencersWithPhotos;
 }
