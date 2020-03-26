@@ -76,7 +76,9 @@ async function getCollectionPhotosRawData(collectionId) {
 }
 
 function getPhotosUrl(imgDataArr) {
-    return imgDataArr.map(imgData => imgData.urls.regular);
+    return imgDataArr.map(imgData => {
+        return { url: imgData.urls.regular }
+    });
 }
 
 function saveToCsvFile(file, arr) {
@@ -95,10 +97,10 @@ function saveToJsonFile(file, arr) {
 
 async function run() {
     console.log('--- photos generator started ---');
-    
+
     // get all of user photos collections
     const collections = await getAllCollections();
-    
+
     // filter collections by gender
     // women
     const womenCollectionsIds = filterCollectionsIdsByGender(collections, "women");
@@ -106,14 +108,14 @@ async function run() {
     saveToJsonFile(WOMEN_JSON_FILE, womenResArr);
     saveToCsvFile(WOMEN_CSV_FILE, womenResArr);
     console.log('-- done writing to women file --');
-    
+
     // men
     const menCollectionsIds = filterCollectionsIdsByGender(collections, "men");
     let menResArr = await getResArr(menCollectionsIds);
     saveToJsonFile(MEN_JSON_FILE, menResArr);
     saveToCsvFile(MEN_CSV_FILE, menResArr);
     console.log('-- done writing to men file --');
-    
+
     console.log('--- photos generator finished ---');
 }
 

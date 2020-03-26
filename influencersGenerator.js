@@ -36,10 +36,18 @@ function getInfluencersWithPhotosByGender(influencers, photos) {
     return influencersWithPhotos;
 }
 
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        let j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
 function run() {
     console.log('--- influencers generator started ---');
 
     let influencersWithPhotos = getInfluencersWithPhotos(influencers);
+    shuffle(influencersWithPhotos);
     fs.writeFileSync(FILE_TO_SAVE, JSON.stringify(influencersWithPhotos));
 
     console.log('--- influencers generator finished ---');
