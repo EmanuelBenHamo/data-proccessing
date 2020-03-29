@@ -77,7 +77,11 @@ async function getCollectionPhotosRawData(collectionId) {
 
 function getPhotosUrl(imgDataArr) {
     return imgDataArr.map(imgData => {
-        return { url: imgData.urls.regular }
+        return {
+            regular: imgData.urls.regular,
+            small: imgData.urls.small,
+            thumb: imgData.urls.thumb
+        }
     });
 }
 
